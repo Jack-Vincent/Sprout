@@ -30,7 +30,9 @@ h2 {
 p {
 font-size: 2rem;
 }
-
+#footer {
+  font-size: 0.75rem;
+}
 .hero a {
 	color: #00FFAA;
 	font-size: 1.25em;
